@@ -1,4 +1,5 @@
 # Fix Error Tools (Lỗi Diss Game,Không hiện Menu Tools)
+*Tải xuống Fix Error Tools và làm theo hướng dẫn:
 * Disable Windows Defender
 * Download Driver & Auto HotFix LMHT
 * Để chế độ cửa sổ Không Viền(trong game) Và DX9 để có trải nghiệm tốt nhất(Hướng dẫn setting DX9).
